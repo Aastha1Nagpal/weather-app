@@ -235,3 +235,7 @@ body{
 .search-bar button:hover {
     background-color: rgba(83, 105, 195, 0.8);
 }
+
+.search-bar input {
+  text-align: center;
+}
