@@ -69,7 +69,8 @@ body{
 }
 
 .future-forecast{
-    background: rgba(255, 255, 255, 0.532);
+    /* background: rgba(255, 255, 255, 0.532); */
+    backdrop-filter: blur(5px);
     padding: 25px;
     position: fixed;
     bottom: 0;
