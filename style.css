@@ -198,6 +198,7 @@ body{
     /* background-color: rgba(255, 255, 255, 0.1); */
     padding: 12px 20px;
     border-radius: 10px;
+    font-family: "Oswald", sans-serif;
     /* backdrop-filter: blur(4px); */
 }
 
@@ -206,6 +207,7 @@ body{
     border: none;
     border-radius: 50px;
     width: 200px;
+    font-family: "Oswald", sans-serif;
     background-color: rgba(255, 255, 255, 0.2);
     color: white;
     font-size: 16px;
@@ -214,6 +216,7 @@ body{
 .search-bar input::placeholder {
     color: #e0e0e0;
     text-align: center;
+    font-family: "Oswald", sans-serif;
 }
 
 .search-bar button {
@@ -225,6 +228,7 @@ body{
     font-weight: bold;
     cursor: pointer;
     transition:  0.3s ease;
+    font-family: "Oswald", sans-serif;
 }
 .search-bar input:focus {
   outline: none;
@@ -238,4 +242,5 @@ body{
 
 .search-bar input {
   text-align: center;
+  font-family: "Oswald", sans-serif;
 }
